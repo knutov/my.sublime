@@ -1,0 +1,43 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Better Completion",
+		"BetterFindBuffer",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Dayle Rees Color Schemes",
+		"Dimmed Color Scheme",
+		"Emmet",
+		"Evernote",
+		"FileDiffs",
+		"Glue",
+		"Goto-CSS-Declaration",
+		"ImprovedSQL",
+		"LineEndings",
+		"MarkdownEditing",
+		"MaxPane",
+		"ModernPerl",
+		"Origami",
+		"Package Control",
+		"PerlSubs",
+		"PlainTasks",
+		"Predawn",
+		"Predawn Twilight Theme",
+		"Pretty YAML",
+		"RevertFontSize",
+		"Review Myself",
+		"Schemr",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"Solarized Color Scheme",
+		"SublimeCodeIntel",
+		"Theme - Soda"
+	]
+}
